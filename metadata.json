@@ -1,0 +1,6 @@
+{
+  "name": "Campus Complaint Management Portal",
+  "description": "A transparent, centralized Liquid Glass university platform to report campus issues, tag concerned faculty, and track complaint resolution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
